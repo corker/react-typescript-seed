@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.resharper9-keybindings",
+    "Orta.vscode-jest",
+    "jpoissonnier.vscode-styled-components"
+  ]
+}
